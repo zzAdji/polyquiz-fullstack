@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "catégorie": "Manga/Anime",
+    "libellé": "Dans L'Attaque des Titans, quel est le véritable nom du Titan Cuirassé ?",
+    "options": ["Bertolt Hoover", "Reiner Braun", "Zeke Yeager", "Annie Leonhart"],
+    "bonne_réponse": 1
+  },
+  {
+    "id": 2,
+    "catégorie": "Manga/Anime",
+    "libellé": "Quel est le nom du démon renard à neuf queues scellé en Naruto ?",
+    "options": ["Shukaku", "Kurama", "Matatabi", "Gyuki"],
+    "bonne_réponse": 1
+  },
+  {
+    "id": 3,
+    "catégorie": "Manga/Anime",
+    "libellé": "Dans Death Note, comment s'appelle le Shinigami qui accompagne Light Yagami ?",
+    "options": ["Rem", "Ryuk", "Gelus", "Sidoh"],
+    "bonne_réponse": 1
+  },
+  {
+    "id": 4,
+    "catégorie": "F1",
+    "libellé": "Quel pilote détient le record du plus grand nombre de victoires en Formule 1 ?",
+    "options": ["Ayrton Senna", "Michael Schumacher", "Lewis Hamilton", "Alain Prost"],
+    "bonne_réponse": 2
+  },
+  {
+    "id": 5,
+    "catégorie": "F1",
+    "libellé": "Sur quel circuit se court le célèbre Grand Prix de Monaco ?",
+    "options": ["Circuit de Monza", "Circuit de Monaco", "Silverstone", "Spa-Francorchamps"],
+    "bonne_réponse": 1
+  },
+  {
+    "id": 6,
+    "catégorie": "Moto GP",
+    "libellé": "Quel pilote de Moto GP est surnommé 'The Doctor' ?",
+    "options": ["Marc Márquez", "Valentino Rossi", "Jorge Lorenzo", "Casey Stoner"],
+    "bonne_réponse": 1
+  },
+  {
+    "id": 7,
+    "catégorie": "NBA",
+    "libellé": "Quelle équipe NBA détient le record du plus grand nombre de victoires en une seule saison régulière (73-9) ?",
+    "options": ["Chicago Bulls", "Golden State Warriors", "Los Angeles Lakers", "Boston Celtics"],
+    "bonne_réponse": 1
+  },
+  {
+    "id": 8,
+    "catégorie": "NBA",
+    "libellé": "Quel joueur est connu sous le surnom de 'Black Mamba' ?",
+    "options": ["Michael Jordan", "LeBron James", "Kobe Bryant", "Shaquille O'Neal"],
+    "bonne_réponse": 2
+  },
+  {
+    "id": 9,
+    "catégorie": "NBA",
+    "libellé": "Qui détient le record du plus grand nombre de points marqués dans un seul match NBA (100 points) ?",
+    "options": ["Wilt Chamberlain", "Kobe Bryant", "Michael Jordan", "Kareem Abdul-Jabbar"],
+    "bonne_réponse": 0
+  },
+  {
+    "id": 10,
+    "catégorie": "F1",
+    "libellé": "En quelle année Max Verstappen a-t-il remporté son premier championnat du monde de F1 ?",
+    "options": ["2019", "2020", "2021", "2022"],
+    "bonne_réponse": 2
+  }
+]
